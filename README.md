@@ -1,1 +1,3 @@
 # leptos-locatorjs
+
+EARLY DEVELOPMENT STAGE. DO NOT EXPECT THIS TO WORK.
