@@ -12,4 +12,5 @@ pub fn Example() -> impl IntoView {
             <h1>Hello, world!</h1>
         </div>
     }
-}```
+}
+```
